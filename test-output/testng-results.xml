@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+    <line>
+      <![CDATA[Application opened]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="116194" started-at="2020-05-24T17:19:08Z" finished-at="2020-05-24T17:21:04Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="116194" started-at="2020-05-24T17:19:08Z" finished-at="2020-05-24T17:21:04Z">
+      <class name="com.hrms.testscripts.TC001">
+        <test-method status="PASS" signature="tc001()[pri:0, instance:com.hrms.testscripts.TC001@57fa26b7]" name="tc001" duration-ms="91175" started-at="2020-05-24T22:49:08Z" finished-at="2020-05-24T22:50:39Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc001 -->
+      </class> <!-- com.hrms.testscripts.TC001 -->
+      <class name="com.hrms.testscripts.TC002">
+        <test-method status="PASS" signature="tc002()[pri:0, instance:com.hrms.testscripts.TC002@e6ea0c6]" name="tc002" duration-ms="25004" started-at="2020-05-24T22:50:39Z" finished-at="2020-05-24T22:51:04Z">
+          <reporter-output>
+            <line>
+              <![CDATA[Application opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tc002 -->
+      </class> <!-- com.hrms.testscripts.TC002 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
